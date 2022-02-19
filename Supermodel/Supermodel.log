@@ -1,0 +1,283 @@
+[Info]  Supermodel Version 0.3a-svn-881
+[Info]  Started as:
+[Info]    argv[0] = C:\Users\pine\Documents\01_emulator\011_spikeobs\Supermodel\Supermodel.exe
+[Info]    argv[1] = -res=992,768
+[Info]    argv[2] = C:\Users\pine\Documents\02_rom\021_supermodel\spikeofe.zip
+[Info]  Opened C:\Users\pine\Documents\02_rom\021_supermodel\spikeofe.zip.
+[Info]  spikeofe:
+[Info]    banked_crom: stride=8, chunk size=2, byte swap=1
+[Info]      mpr-21616.4, crc32=0x2900bdd8, offset=0x00000000
+[Info]      mpr-21615.3, crc32=0x7727a6fc, offset=0x00000002
+[Info]      mpr-21614.2, crc32=0xe21d619b, offset=0x00000004
+[Info]      mpr-21613.1, crc32=0xd039e608, offset=0x00000006
+[Info]      mpr-21620.8, crc32=0x476f027f, offset=0x02000000
+[Info]      mpr-21619.7, crc32=0xe1076f47, offset=0x02000002
+[Info]      mpr-21618.6, crc32=0x633530fa, offset=0x02000004
+[Info]      mpr-21617.5, crc32=0xa08c6790, offset=0x02000006
+[Info]      mpr-21624.12, crc32=0xa158b7da, offset=0x04000000
+[Info]      mpr-21623.11, crc32=0xd9301674, offset=0x04000002
+[Info]      mpr-21622.10, crc32=0x5f5a1563, offset=0x04000004
+[Info]      mpr-21621.9, crc32=0x551a444d, offset=0x04000006
+[Info]      mpr-21628.16, crc32=0xde3866ea, offset=0x06000000
+[Info]      mpr-21627.15, crc32=0xefe94608, offset=0x06000002
+[Info]      mpr-21626.14, crc32=0x1861652e, offset=0x06000004
+[Info]      mpr-21625.13, crc32=0x72a34707, offset=0x06000006
+[Info]    crom: stride=8, chunk size=2, byte swap=1
+[Info]      epr-21656.20, crc32=0xbd2aaf64, offset=0x00000000
+[Info]      epr-21655.19, crc32=0x68a9e417, offset=0x00000002
+[Info]      epr-21654.18, crc32=0x5be245a3, offset=0x00000004
+[Info]      epr-21653.17, crc32=0xf4bd9c3c, offset=0x00000006
+[Info]    mpeg_music: stride=1, chunk size=1, byte swap=0
+[Info]      mpr-21649.ic18, crc32=0xdac87f47, offset=0x00000000
+[Info]      mpr-21650.ic20, crc32=0x86d90123, offset=0x00400000
+[Info]      mpr-21651.ic22, crc32=0x81715565, offset=0x00800000
+[Info]      mpr-21652.ic24, crc32=0xe7c8c9bf, offset=0x00c00000
+[Info]    mpeg_program: stride=1, chunk size=1, byte swap=1
+[Info]      epr-21658.ic2, crc32=0x50bad8cb, offset=0x00000000
+[Info]    sound_program: stride=1, chunk size=1, byte swap=1
+[Info]      epr-21657.21, crc32=0x7242e8fd, offset=0x00000000
+[Info]    sound_samples: stride=1, chunk size=1, byte swap=1
+[Info]      mpr-21629.22, crc32=0xbc9701c4, offset=0x00000000
+[Info]      mpr-21630.24, crc32=0x9f2deadd, offset=0x00400000
+[Info]      mpr-21631.23, crc32=0x299036c5, offset=0x00800000
+[Info]      mpr-21632.25, crc32=0xff162f0d, offset=0x00c00000
+[Info]    vrom: stride=32, chunk size=2, byte swap=0
+[Info]      mpr-21633.26, crc32=0x735fb67d, offset=0x00000000
+[Info]      mpr-21634.27, crc32=0x876e6788, offset=0x00000002
+[Info]      mpr-21635.28, crc32=0x093534a8, offset=0x00000004
+[Info]      mpr-21636.29, crc32=0x2433f21c, offset=0x00000006
+[Info]      mpr-21637.30, crc32=0xedb8f2b8, offset=0x00000008
+[Info]      mpr-21638.31, crc32=0x3773a215, offset=0x0000000a
+[Info]      mpr-21639.32, crc32=0x313d1872, offset=0x0000000c
+[Info]      mpr-21640.33, crc32=0x271366be, offset=0x0000000e
+[Info]      mpr-21641.34, crc32=0x782147e4, offset=0x00000010
+[Info]      mpr-21642.35, crc32=0x844732c9, offset=0x00000012
+[Info]      mpr-21643.36, crc32=0x9e922e9d, offset=0x00000014
+[Info]      mpr-21644.37, crc32=0x617aa65a, offset=0x00000016
+[Info]      mpr-21645.38, crc32=0x71396f52, offset=0x00000018
+[Info]      mpr-21646.39, crc32=0x90fd9c87, offset=0x0000001a
+[Info]      mpr-21647.40, crc32=0xcf87991f, offset=0x0000001c
+[Info]      mpr-21648.41, crc32=0x30f974a1, offset=0x0000001e
+[Info]  Runtime configuration:
+[Info]    GameXMLFile=Config/Games.xml
+[Info]    InitStateFile=
+[Info]    MultiThreaded=1
+[Info]    GPUMultiThreaded=1
+[Info]    PowerPCFrequency=50
+[Info]    MultiTexture=0
+[Info]    VertexShader=
+[Info]    FragmentShader=
+[Info]    VertexShaderFog=
+[Info]    FragmentShaderFog=
+[Info]    VertexShader2D=
+[Info]    FragmentShader2D=
+[Info]    EmulateSound=1
+[Info]    Balance=0
+[Info]    EmulateDSB=1
+[Info]    SoundVolume=100
+[Info]    MusicVolume=100
+[Info]    LegacySoundDSP=0
+[Info]    ForceFeedback=0
+[Info]    New3DEngine=1
+[Info]    QuadRendering=0
+[Info]    XResolution=992
+[Info]    YResolution=768
+[Info]    FullScreen=0
+[Info]    WideScreen=0
+[Info]    Stretch=0
+[Info]    WideBackground=0
+[Info]    VSync=1
+[Info]    Throttle=1
+[Info]    ShowFrameRate=0
+[Info]    Crosshairs=0
+[Info]    FlipStereo=0
+[Info]    InputSystem=dinput
+[Info]    DirectInputConstForceLeftMax=100
+[Info]    DirectInputConstForceRightMax=100
+[Info]    DirectInputSelfCenterMax=100
+[Info]    DirectInputFrictionMax=100
+[Info]    DirectInputVibrateMax=100
+[Info]    XInputConstForceThreshold=30
+[Info]    XInputConstForceMax=100
+[Info]    XInputVibrateMax=100
+[Info]    XInputStereoVibration=1
+[Info]    SDLConstForceMax=100
+[Info]    SDLSelfCenterMax=100
+[Info]    SDLFrictionMax=100
+[Info]    SDLVibrateMax=100
+[Info]    SDLConstForceThreshold=30
+[Info]    Network=0
+[Info]    SimulateNet=1
+[Info]    Outputs=none
+[Info]    DumpTextures=0
+[Info]    PortIn=1970
+[Info]    PortOut=1971
+[Info]    AddressOut=127.0.0.1
+[Info]    InputStart1=KEY_1,JOY1_BUTTON9
+[Info]    InputStart2=KEY_2,JOY2_BUTTON9
+[Info]    InputCoin1=KEY_3,JOY1_BUTTON10
+[Info]    InputCoin2=KEY_4,JOY2_BUTTON10
+[Info]    InputServiceA=KEY_5
+[Info]    InputServiceB=KEY_7
+[Info]    InputTestA=KEY_6
+[Info]    InputTestB=KEY_8
+[Info]    InputJoyUp=KEY_UP,JOY1_UP
+[Info]    InputJoyDown=KEY_DOWN,JOY1_DOWN
+[Info]    InputJoyLeft=KEY_LEFT,JOY1_LEFT
+[Info]    InputJoyRight=KEY_RIGHT,JOY1_RIGHT
+[Info]    InputJoyUp2=JOY2_UP
+[Info]    InputJoyDown2=JOY2_DOWN
+[Info]    InputJoyLeft2=JOY2_LEFT
+[Info]    InputJoyRight2=JOY2_RIGHT
+[Info]    InputPunch=KEY_A,JOY1_BUTTON1
+[Info]    InputKick=KEY_S,JOY1_BUTTON2
+[Info]    InputGuard=KEY_D,JOY1_BUTTON3
+[Info]    InputEscape=KEY_F,JOY1_BUTTON4
+[Info]    InputPunch2=JOY2_BUTTON1
+[Info]    InputKick2=JOY2_BUTTON2
+[Info]    InputGuard2=JOY2_BUTTON3
+[Info]    InputEscape2=JOY2_BUTTON4
+[Info]    InputShift=KEY_A,JOY1_BUTTON1
+[Info]    InputBeat=KEY_S,JOY1_BUTTON2
+[Info]    InputCharge=KEY_D,JOY1_BUTTON3
+[Info]    InputJump=KEY_F,JOY1_BUTTON4
+[Info]    InputShortPass=KEY_A,JOY1_BUTTON1
+[Info]    InputLongPass=KEY_S,JOY1_BUTTON2
+[Info]    InputShoot=KEY_D,JOY1_BUTTON3
+[Info]    InputShortPass2=JOY2_BUTTON1
+[Info]    InputLongPass2=JOY2_BUTTON2
+[Info]    InputShoot2=JOY2_BUTTON3
+[Info]    InputSteeringLeft=KEY_LEFT
+[Info]    InputSteeringRight=KEY_RIGHT
+[Info]    InputSteering=JOY1_XAXIS
+[Info]    InputAccelerator=KEY_UP,JOY1_UP
+[Info]    InputBrake=KEY_DOWN,JOY1_DOWN
+[Info]    InputGearShiftUp=KEY_Y
+[Info]    InputGearShiftDown=KEY_H
+[Info]    InputGearShift1=KEY_Q,JOY1_BUTTON5
+[Info]    InputGearShift2=KEY_W,JOY1_BUTTON6
+[Info]    InputGearShift3=KEY_E,JOY1_BUTTON7
+[Info]    InputGearShift4=KEY_R,JOY1_BUTTON8
+[Info]    InputGearShiftN=KEY_T
+[Info]    InputVR1=KEY_A,JOY1_BUTTON1
+[Info]    InputVR2=KEY_S,JOY1_BUTTON2
+[Info]    InputVR3=KEY_D,JOY1_BUTTON3
+[Info]    InputVR4=KEY_F,JOY1_BUTTON4
+[Info]    InputViewChange=KEY_A,JOY1_BUTTON1
+[Info]    InputHandBrake=KEY_S,JOY1_BUTTON2
+[Info]    InputRearBrake=KEY_S,JOY1_BUTTON2
+[Info]    InputMusicSelect=KEY_D,JOY1_BUTTON3
+[Info]    InputTwinJoyTurnLeft=KEY_Q,JOY1_RXAXIS_NEG
+[Info]    InputTwinJoyTurnRight=KEY_W,JOY1_RXAXIS_POS
+[Info]    InputTwinJoyForward=KEY_UP,JOY1_YAXIS_NEG
+[Info]    InputTwinJoyReverse=KEY_DOWN,JOY1_YAXIS_POS
+[Info]    InputTwinJoyStrafeLeft=KEY_LEFT,JOY1_XAXIS_NEG
+[Info]    InputTwinJoyStrafeRight=KEY_RIGHT,JOY1_XAXIS_POS
+[Info]    InputTwinJoyJump=KEY_E,JOY1_BUTTON1
+[Info]    InputTwinJoyCrouch=KEY_R,JOY1_BUTTON2
+[Info]    InputTwinJoyLeft1=NONE
+[Info]    InputTwinJoyLeft2=NONE
+[Info]    InputTwinJoyRight1=NONE
+[Info]    InputTwinJoyRight2=NONE
+[Info]    InputTwinJoyUp1=NONE
+[Info]    InputTwinJoyUp2=NONE
+[Info]    InputTwinJoyDown1=NONE
+[Info]    InputTwinJoyDown2=NONE
+[Info]    InputTwinJoyShot1=KEY_A,JOY1_BUTTON5
+[Info]    InputTwinJoyShot2=KEY_S,JOY1_BUTTON6
+[Info]    InputTwinJoyTurbo1=KEY_Z,JOY1_BUTTON7
+[Info]    InputTwinJoyTurbo2=KEY_X,JOY1_BUTTON8
+[Info]    InputAnalogJoyLeft=KEY_LEFT
+[Info]    InputAnalogJoyRight=KEY_RIGHT
+[Info]    InputAnalogJoyUp=KEY_UP
+[Info]    InputAnalogJoyDown=KEY_DOWN
+[Info]    InputAnalogJoyX=JOY_XAXIS,MOUSE_XAXIS
+[Info]    InputAnalogJoyY=JOY_YAXIS,MOUSE_YAXIS
+[Info]    InputAnalogJoyTrigger=KEY_A,JOY_BUTTON1,MOUSE_LEFT_BUTTON
+[Info]    InputAnalogJoyEvent=KEY_S,JOY_BUTTON2,MOUSE_RIGHT_BUTTON
+[Info]    InputAnalogJoyTrigger2=KEY_D,JOY_BUTTON2
+[Info]    InputAnalogJoyEvent2=NONE
+[Info]    InputGunLeft=KEY_LEFT
+[Info]    InputGunRight=KEY_RIGHT
+[Info]    InputGunUp=KEY_UP
+[Info]    InputGunDown=KEY_DOWN
+[Info]    InputGunX=MOUSE_XAXIS,JOY1_XAXIS
+[Info]    InputGunY=MOUSE_YAXIS,JOY1_YAXIS
+[Info]    InputTrigger=KEY_A,JOY1_BUTTON1,MOUSE_LEFT_BUTTON
+[Info]    InputOffscreen=KEY_S,JOY1_BUTTON2,MOUSE_RIGHT_BUTTON
+[Info]    InputAutoTrigger=0
+[Info]    InputGunLeft2=NONE
+[Info]    InputGunRight2=NONE
+[Info]    InputGunUp2=NONE
+[Info]    InputGunDown2=NONE
+[Info]    InputGunX2=JOY2_XAXIS
+[Info]    InputGunY2=JOY2_YAXIS
+[Info]    InputTrigger2=JOY2_BUTTON1
+[Info]    InputOffscreen2=JOY2_BUTTON2
+[Info]    InputAutoTrigger2=0
+[Info]    InputAnalogGunLeft=KEY_LEFT
+[Info]    InputAnalogGunRight=KEY_RIGHT
+[Info]    InputAnalogGunUp=KEY_UP
+[Info]    InputAnalogGunDown=KEY_DOWN
+[Info]    InputAnalogGunX=MOUSE_XAXIS,JOY1_XAXIS
+[Info]    InputAnalogGunY=MOUSE_YAXIS,JOY1_YAXIS
+[Info]    InputAnalogTriggerLeft=KEY_A,JOY1_BUTTON1,MOUSE_LEFT_BUTTON
+[Info]    InputAnalogTriggerRight=KEY_S,JOY1_BUTTON2,MOUSE_RIGHT_BUTTON
+[Info]    InputAnalogGunLeft2=NONE
+[Info]    InputAnalogGunRight2=NONE
+[Info]    InputAnalogGunUp2=NONE
+[Info]    InputAnalogGunDown2=NONE
+[Info]    InputAnalogGunX2=NONE
+[Info]    InputAnalogGunY2=NONE
+[Info]    InputAnalogTriggerLeft2=NONE
+[Info]    InputAnalogTriggerRight2=NONE
+[Info]    InputSkiLeft=KEY_LEFT
+[Info]    InputSkiRight=KEY_RIGHT
+[Info]    InputSkiUp=KEY_UP
+[Info]    InputSkiDown=KEY_DOWN
+[Info]    InputSkiX=JOY1_XAXIS
+[Info]    InputSkiY=JOY1_YAXIS
+[Info]    InputSkiPollLeft=KEY_A,JOY1_BUTTON1
+[Info]    InputSkiPollRight=KEY_S,JOY1_BUTTON2
+[Info]    InputSkiSelect1=KEY_Q,JOY1_BUTTON3
+[Info]    InputSkiSelect2=KEY_W,JOY1_BUTTON4
+[Info]    InputSkiSelect3=KEY_E,JOY1_BUTTON5
+[Info]    InputMagicalLeverUp1=KEY_UP
+[Info]    InputMagicalLeverDown1=KEY_DOWN
+[Info]    InputMagicalLeverUp2=NONE
+[Info]    InputMagicalLeverDown2=NONE
+[Info]    InputMagicalLever1=JOY1_YAXIS
+[Info]    InputMagicalLever2=JOY2_YAXIS
+[Info]    InputMagicalPedal1=KEY_A,JOY1_BUTTON1
+[Info]    InputMagicalPedal2=KEY_S,JOY2_BUTTON1
+[Info]    InputFishingRodLeft=KEY_LEFT
+[Info]    InputFishingRodRight=KEY_RIGHT
+[Info]    InputFishingRodUp=KEY_UP
+[Info]    InputFishingRodDown=KEY_DOWN
+[Info]    InputFishingStickLeft=KEY_A
+[Info]    InputFishingStickRight=KEY_D
+[Info]    InputFishingStickUp=KEY_W
+[Info]    InputFishingStickDown=KEY_S
+[Info]    InputFishingRodX=JOY1_XAXIS
+[Info]    InputFishingRodY=JOY1_YAXIS
+[Info]    InputFishingStickX=JOY1_RXAXIS
+[Info]    InputFishingStickY=JOY1_RYAXIS
+[Info]    InputFishingReel=KEY_SPACE,JOY1_ZAXIS_POS
+[Info]    InputFishingCast=KEY_Z,JOY1_BUTTON1
+[Info]    InputFishingSelect=KEY_X,JOY1_BUTTON2
+[Info]    InputFishingTension=KEY_T,JOY1_ZAXIS_NEG
+[Info]    LogOutput=Supermodel.log
+[Info]    LogLevel=info
+[Info]  
+[Info]  OpenGL information:
+[Info]    Vendor                   : Intel
+[Info]    Renderer                 : Intel(R) UHD Graphics
+[Info]    Version                  : 4.6.0 - Build 27.20.100.9621
+[Info]    Shading Language Version : 4.60 - Build 27.20.100.9621
+[Info]    Maximum Vertex Array Size: 1048576 vertices
+[Info]    Maximum Texture Size     : 16384 texels
+[Info]    Maximum Vertex Attributes: 16
+[Info]    Maximum Vertex Uniforms  : 4096
+[Info]    Maximum Texture Img Units: 32
+[Info]  
+[Info]  Program terminated normally.
